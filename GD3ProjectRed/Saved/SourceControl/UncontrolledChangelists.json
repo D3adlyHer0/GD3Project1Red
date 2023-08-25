@@ -5,6 +5,24 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/d3adl/Documents/GitHub/New folder/MyFork/GD3Project1Red/GD3ProjectRed/Content/Guns/Materials/1911.uasset",
+				"C:/Users/d3adl/Documents/GitHub/New folder/MyFork/GD3Project1Red/GD3ProjectRed/Content/Guns/Materials/MP5_mat.uasset",
+				"C:/Users/d3adl/Documents/GitHub/New folder/MyFork/GD3Project1Red/GD3ProjectRed/Content/Guns/Mp5.uasset",
+				"C:/Users/d3adl/Documents/GitHub/New folder/MyFork/GD3Project1Red/GD3ProjectRed/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/K2/OBUP5KF3OZTQH5BUP4HBPO.uasset",
+				"C:/Users/d3adl/Documents/GitHub/New folder/MyFork/GD3Project1Red/GD3ProjectRed/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/WW/7DLMRMPR607ITWFQZIXB2F.uasset",
+				"C:/Users/d3adl/Documents/GitHub/New folder/MyFork/GD3Project1Red/GD3ProjectRed/Content/Guns/1911.uasset",
+				"C:/Users/d3adl/Documents/GitHub/New folder/MyFork/GD3Project1Red/GD3ProjectRed/Content/Guns/Materials/1911_Albedo.uasset",
+				"C:/Users/d3adl/Documents/GitHub/New folder/MyFork/GD3Project1Red/GD3ProjectRed/Content/Guns/Materials/1911_AO.uasset",
+				"C:/Users/d3adl/Documents/GitHub/New folder/MyFork/GD3Project1Red/GD3ProjectRed/Content/Guns/Materials/1911_Metallic.uasset",
+				"C:/Users/d3adl/Documents/GitHub/New folder/MyFork/GD3Project1Red/GD3ProjectRed/Content/Guns/Materials/1911_Normal.uasset",
+				"C:/Users/d3adl/Documents/GitHub/New folder/MyFork/GD3Project1Red/GD3ProjectRed/Content/Guns/Materials/1911_Roughness.uasset",
+				"C:/Users/d3adl/Documents/GitHub/New folder/MyFork/GD3Project1Red/GD3ProjectRed/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/d3adl/Documents/GitHub/New folder/MyFork/GD3Project1Red/GD3ProjectRed/Content/Guns/Materials/internal_ground_ao_texture.uasset",
+				"C:/Users/d3adl/Documents/GitHub/New folder/MyFork/GD3Project1Red/GD3ProjectRed/Content/Guns/Materials/MP5.uasset",
+				"C:/Users/d3adl/Documents/GitHub/New folder/MyFork/GD3Project1Red/GD3ProjectRed/Content/Guns/Materials/MP5_albedo.uasset",
+				"C:/Users/d3adl/Documents/GitHub/New folder/MyFork/GD3Project1Red/GD3ProjectRed/Content/Guns/Materials/MP5_normal.uasset",
+				"C:/Users/d3adl/Documents/GitHub/New folder/MyFork/GD3Project1Red/GD3ProjectRed/Content/Guns/Materials/Mp5_opacity.uasset",
+				"C:/Users/d3adl/Documents/GitHub/New folder/MyFork/GD3Project1Red/GD3ProjectRed/Content/Guns/Materials/MP5_specular.uasset",
 				"C:/Users/d3adl/Documents/Unreal Projects/GD3ProjectRed/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
